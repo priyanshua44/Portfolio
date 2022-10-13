@@ -25,7 +25,7 @@ const Projects = () =>  {
         </div>
 
         <div className="Projects-gallery row">
-          <div className="Project-element pe2 col-lg-4 col-sm-12 align-center" data-aos='flip-left'>
+          <div className="Project-element pe2 col-lg-4 col-sm-12 align-center" data-aos='slide-up'>
             <div className="Project-img">
               <a href="https://flipkartclone-pj.netlify.app" target="_blank">
                 <img src={flipkart} alt="" />
@@ -34,7 +34,7 @@ const Projects = () =>  {
             <h2>Flipkart clone</h2>
           </div>
 
-          <div className="Project-element pe3 col-lg-4 col-sm-12 align-center" data-aos='flip-left'>
+          <div className="Project-element pe3 col-lg-4 col-sm-12 align-center" data-aos='slide-up'>
             <div className="Project-img">
               <a href="https://virtual-piano-pj.netlify.app" target="_blank">
                 <img src={virtual} alt="" />
@@ -43,7 +43,7 @@ const Projects = () =>  {
             <h2>Virtual Piano</h2>
           </div>
 
-          <div className="Project-element pe1 col-lg-4 col-sm-12 align-center" data-aos='flip-left'>
+          <div className="Project-element pe1 col-lg-4 col-sm-12 align-center" data-aos='slide-up'>
             <div className="Project-img">
               <a href="https://facebookclone-pj.netlify.app" target="_blank">
                 <img src={facebook} alt="" />
@@ -52,7 +52,7 @@ const Projects = () =>  {
             <h2>Facebook clone</h2>
           </div>
 
-          <div className="Project-element pe3 col-lg-4 col-sm-12 Project-element-Other-Row align-center" data-aos='flip-left'>
+          <div className="Project-element pe3 col-lg-4 col-sm-12 Project-element-Other-Row align-center" data-aos='slide-up'>
             <div className="Project-img">
               <a href="https://youtubeclone-pj.netlify.app" target="_blank">
                 <img src={youtube} alt="" />

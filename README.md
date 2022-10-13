@@ -1,6 +1,6 @@
 # Portfolio
 
-This is my Portfolio Website made using HTML, CSS, Bootstrap, Jquery/Javascipt. 
+This is my Portfolio Website made using HTML, CSS, Bootstrap, React.JS, Jquery/Javascipt. 
 
 ## Features
 

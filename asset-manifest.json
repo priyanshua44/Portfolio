@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.566a457d.css",
+    "main.js": "/portfolio/static/js/main.c67846eb.js",
+    "static/media/youtube.png": "/portfolio/static/media/youtube.00fc6e95a9d72754f6c6.png",
+    "static/media/flipkart.png": "/portfolio/static/media/flipkart.8126ef66d14e13f6306f.png",
+    "static/media/Virtual-Piano.png": "/portfolio/static/media/Virtual-Piano.69336f014c0ab38a301f.png",
+    "static/media/facebook.png": "/portfolio/static/media/facebook.00d59af10354483cb80d.png",
+    "static/media/photo.jpg": "/portfolio/static/media/photo.3cee387c03415812459c.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.566a457d.css.map": "/portfolio/static/css/main.566a457d.css.map",
+    "main.c67846eb.js.map": "/portfolio/static/js/main.c67846eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.566a457d.css",
+    "static/js/main.c67846eb.js"
+  ]
+}

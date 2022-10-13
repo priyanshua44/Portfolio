@@ -27,6 +27,7 @@ https://priyanshua44.github.io/portfolio/
 • HTML\
 • CSS\
 • Bootstrap\
+• React Js\
 • Javascript\
 • Jquery
 

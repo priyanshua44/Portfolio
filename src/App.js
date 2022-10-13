@@ -1,25 +1,28 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useReducer } from 'react'
+import Container from './components/Container'
+import Navbar from './components/Navbar'
+import Services from './components/Services'
+import './style.css'
+import './contact.css'
+import './gallery.css'
+import './responsive.css'
+import './Skills.css'
+import Skills from './components/Skills'
+import Projects from './components/Projects'
+import Contact from './components/Contact'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const App = () => {
+
+    return (
+      <div>
+        <Navbar />
+        <Container />
+        <Services />
+        <Skills  />
+        <Projects />
+        <Contact />
+      </div>
+    )
 }
 
-export default App;
+export default App

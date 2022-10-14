@@ -19,7 +19,7 @@ const Projects = () =>  {
     return (
       <div id="Projects">
         <div className="flexboard">
-          <div className="Projects-heading box-shadow" data-aos='fade'>
+          <div className="Projects-heading box-shadow" data-aos='fade-up'>
             <h1>My Projects</h1>
           </div>
         </div>

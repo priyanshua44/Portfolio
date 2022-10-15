@@ -15,7 +15,7 @@ This is my Portfolio Website made using HTML, CSS, Bootstrap, React.JS, Jquery/J
 
 • Download or clone the repository \
 • Go to the directory\
-• Run the index.html file
+• Run the index.js file
 
 ## Live link for the project
 

@@ -10,7 +10,7 @@ import "../Skills.css";
 
 const Container = () => {
   useEffect(() => {
-    Aos.init({duration : 2000, offset:100});
+    Aos.init({ duration: 2000, offset: 100 });
   }, []);
 
   return (
@@ -47,10 +47,10 @@ const Container = () => {
 
         <div className="description nav-color">
           <p>
-            I Love Creating Websites, Doing Front-end Development. I Can Design
-            Awesome Websites With Responsiveness, Animations, Writing Optimized
-            and Clean Code.I Can Also Create Attractive Designs (Ui) For
-            Websites.
+            Creative Front End Developer skilled in designing, developing and
+            maintaining responsive websites in the recruiting industry.
+            Specialized in ReactJS and responsive design. Very passionate about
+            aesthetics and UI designs.
           </p>
         </div>
 
@@ -73,7 +73,7 @@ const Container = () => {
             <i className="fa-brands fa-square-github"></i> Github
           </a>
           <a
-            href="https://drive.google.com/file/d/19nCsLVNuLUGtitzZ9MSb4M67VpuDQqk6/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ny-wIHgzPQBfENeE6xdsoxMGZxSOrX-r/view?usp=sharing"
             target="_blank"
             className="btn btn-dark btn-lg"
             type="button"

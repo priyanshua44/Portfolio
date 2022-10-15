@@ -55,7 +55,7 @@ const Skills = () => {
           </div>
           <div className="bar">
             <div className="info">
-              <span>BOOTSTRAP</span>
+              <span>BOOTSTRAP / TAILWIND</span>
             </div>
             <div className="progress-line jquery">
               <span></span>

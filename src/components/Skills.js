@@ -14,7 +14,7 @@ const Skills = () => {
 
   const handle = () => {
     // console.log("hello")
-  }
+  };
 
   useEffect(() => {
     Aos.init({ duration: 2000, offset: 200 });
@@ -32,14 +32,13 @@ const Skills = () => {
         id="SkillsAnimate"
         data-aos="slide-up"
         ref={myRef}
-        
       >
         <div className="skill-bars box-shadow ">
           <div className="bar">
             <div className="info">
               <span>
-                HTML 
-{visible ? handle() : ''}
+                HTML
+                {visible ? handle() : ""}
               </span>
             </div>
             <div className="progress-line html">

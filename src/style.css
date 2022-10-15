@@ -188,6 +188,10 @@ hr.new{
     margin-top: 7%;  
 }
 
+.element:hover{
+    background-color: #adf6ff;
+}
+
 .box-shadow{
     box-shadow: -1px 4px 4px 1px !important;
 }

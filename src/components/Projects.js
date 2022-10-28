@@ -1,11 +1,12 @@
 import React, { useEffect } from "react";
 import Aos from "aos";
 import "aos/dist/aos.css";
-import weather from "../images/weather.png"
+import weather from "../images/weather.png";
 import flipkart from "../images/flipkart.png";
 import virtual from "../images/Virtual-Piano.png";
 import facebook from "../images/facebook.png";
 import youtube from "../images/youtube.png";
+import shoptohome from "../images/shoptohome.png"
 import "../style.css";
 import "../contact.css";
 import "../gallery.css";
@@ -31,6 +32,18 @@ const Projects = () => {
           data-aos="slide-up"
         >
           <div className="Project-img">
+            <a href="https://priyanshua44.github.io/shoptohome/" target="_blank">
+              <img src={shoptohome} alt="" />
+            </a>
+          </div>
+          <h2>Ecommerce Site</h2>
+        </div>
+
+        <div
+          className="Project-element pe2 col-lg-4 col-sm-12 align-center"
+          data-aos="slide-up"
+        >
+          <div className="Project-img">
             <a href="https://priyanshua44.github.io/weather/" target="_blank">
               <img src={weather} alt="" />
             </a>
@@ -51,7 +64,7 @@ const Projects = () => {
         </div>
 
         <div
-          className="Project-element pe3 col-lg-4 col-sm-12 align-center"
+          className="Project-element pe3 col-lg-4 col-sm-12 Project-element-Other-Row align-center"
           data-aos="slide-up"
         >
           <div className="Project-img">

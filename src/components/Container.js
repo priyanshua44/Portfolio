@@ -30,7 +30,7 @@ const Container = () => {
       >
         <div className="flexboard">
           <div className="heading">
-            <h1 className="front-end">Front-end Web Developer</h1>
+            <h1 className="front-end">Full Stack Developer</h1>
           </div>
         </div>
 
@@ -47,10 +47,10 @@ const Container = () => {
 
         <div className="description nav-color">
           <p>
-            Creative Front End Developer skilled in designing, developing and
+            Creative Full Stack Developer skilled in designing, developing and
             maintaining responsive websites in the recruiting industry.
-            Specialized in ReactJS and responsive design. Very passionate about
-            aesthetics and UI designs.
+            Specialized in ReactJS, Spring and responsive design. Very
+            passionate about aesthetics and UI designs.
           </p>
         </div>
 

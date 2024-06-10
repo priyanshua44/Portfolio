@@ -46,11 +46,8 @@ const Container = () => {
         </div>
 
         <div className="description nav-color">
-          <p>
-            Creative Full Stack Developer skilled in designing, developing and
-            maintaining responsive websites in the recruiting industry.
-            Specialized in ReactJS, Spring and responsive design. Very
-            passionate about aesthetics and UI designs.
+          <p> 
+Creative Full Stack Developer proficient in designing, developing, and maintaining responsive websites for the recruiting industry. Specialized in ReactJS, Spring, and responsive design, with a strong focus on aesthetics and UI designs. Experienced in backend development, API integration, and database management to ensure seamless functionality and optimal user experience.
           </p>
         </div>
 

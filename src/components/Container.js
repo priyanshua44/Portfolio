@@ -56,8 +56,7 @@ const Container = () => {
 
         <div className="social-button flexboard">
           <a
-            href="https://www.linkedin.com/in/priyanshu-j-741915110
-                    "
+            href="https://www.linkedin.com/in/priyanshu-j-741915110"
             target="_blank"
             className="btn btn-dark btn-lg"
             type="button"

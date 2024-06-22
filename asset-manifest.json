@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1361f0ff.css",
-    "main.js": "/portfolio/static/js/main.4eb052f6.js",
+    "main.css": "/portfolio/static/css/main.704dc6ed.css",
+    "main.js": "/portfolio/static/js/main.b951447c.js",
     "static/media/youtube.png": "/portfolio/static/media/youtube.00fc6e95a9d72754f6c6.png",
     "static/media/shoptohome.png": "/portfolio/static/media/shoptohome.0891514f09077a127b7c.png",
     "static/media/flipkart.png": "/portfolio/static/media/flipkart.8126ef66d14e13f6306f.png",
     "static/media/weather.png": "/portfolio/static/media/weather.fa7e0c4ee19871462e96.png",
     "static/media/Virtual-Piano.png": "/portfolio/static/media/Virtual-Piano.69336f014c0ab38a301f.png",
+    "static/media/farmlink-web-icon.webp": "/portfolio/static/media/farmlink-web-icon.310f4b082cc514b08160.webp",
     "static/media/facebook.png": "/portfolio/static/media/facebook.00d59af10354483cb80d.png",
     "static/media/photo.jpg": "/portfolio/static/media/photo.3cee387c03415812459c.jpg",
     "index.html": "/portfolio/index.html",
-    "main.1361f0ff.css.map": "/portfolio/static/css/main.1361f0ff.css.map",
-    "main.4eb052f6.js.map": "/portfolio/static/js/main.4eb052f6.js.map"
+    "main.704dc6ed.css.map": "/portfolio/static/css/main.704dc6ed.css.map",
+    "main.b951447c.js.map": "/portfolio/static/js/main.b951447c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1361f0ff.css",
-    "static/js/main.4eb052f6.js"
+    "static/css/main.704dc6ed.css",
+    "static/js/main.b951447c.js"
   ]
 }

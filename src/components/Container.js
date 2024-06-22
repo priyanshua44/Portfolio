@@ -69,7 +69,7 @@ Creative Full Stack Developer proficient in designing, developing, and maintaini
             <i className="fa-brands fa-square-github"></i> Github
           </a>
           <a
-            href="https://drive.google.com/file/d/1JqjsoctFVOHMADlB_1Kl0_tzjtmiRaE_/view?usp=sharing"
+            href="https://drive.google.com/file/d/12lIiSB9T4R2-gFaqsitCmULq9tI_Cuiz/view?usp=sharing"
             target="_blank"
             className="btn btn-dark btn-lg jj"
             type="button"

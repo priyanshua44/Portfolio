@@ -82,20 +82,32 @@ h6{
   background: #00a1ff;
   animation: animate 1s 1s cubic-bezier(1,0,0.5,1) forwards;
 }
+.bar .progress-line.java span{
+  width: 70%;
+}
 .bar .progress-line.html span{
   width: 90%;
 }
-.bar .progress-line.css span{
-  width: 90%;
-}
-.bar .progress-line.jquery span{
-  width: 95%;
-}
-.bar .progress-line.python span{
-  width: 85%;
-}
-.bar .progress-line.mysql span{
+.bar .progress-line.javascript span{
   width: 80%;
+}
+.bar .progress-line.reactjs span{
+  width: 80%;
+}
+.bar .progress-line.mern span{
+  width: 70%;
+}
+.bar .progress-line.springboot span{
+  width: 70%;
+}
+.bar .progress-line.nodejs span{
+  width: 80%;
+}
+.bar .progress-line.mongodb span{
+  width: 80%;
+}
+.bar .progress-line.sql span{
+  width: 90%;
 }
 .progress-line span::before{
   position: absolute;
@@ -129,19 +141,31 @@ h6{
     opacity: 1;
   }
 }
+.progress-line.java span::after{
+  content: "70%";
+}
 .progress-line.html span::after{
   content: "90%";
 }
-.progress-line.css span::after{
-  content: "90%";
-}
-.progress-line.jquery span::after{
-  content: "95%";
-}
-.progress-line.python span::after{
-  content: "85%";
-}
-.progress-line.mysql span::after{
+.progress-line.javascript span::after{
   content: "80%";
+}
+.progress-line.reactjs span::after{
+  content: "80%";
+}
+.progress-line.mern span::after{
+  content: "70%";
+}
+.progress-line.springboot span::after{
+  content: "70%";
+}
+.progress-line.nodejs span::after{
+  content: "80%";
+}
+.progress-line.mongodb span::after{
+  content: "80%";
+}
+.progress-line.sql span::after{
+  content: "90%";
 }
 

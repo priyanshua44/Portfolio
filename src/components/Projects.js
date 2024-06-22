@@ -7,6 +7,7 @@ import virtual from "../images/Virtual-Piano.png";
 import facebook from "../images/facebook.png";
 import youtube from "../images/youtube.png";
 import shoptohome from "../images/shoptohome.png"
+import farmlink from "../images/farmlink-web-icon.webp";
 import "../style.css";
 import "../contact.css";
 import "../gallery.css";
@@ -27,6 +28,19 @@ const Projects = () => {
       </div>
 
       <div className="Projects-gallery row">
+
+      <div
+          className="Project-element pe2 col-lg-4 col-sm-12 align-center"
+          data-aos="slide-up"
+        >
+          <div className="Project-img">
+            <a href="https://farmlinkv2.vercel.app/" target="_blank">
+              <img src={farmlink} alt="" />
+            </a>
+          </div>
+          <h2>Farmlink</h2>
+        </div>
+
         <div
           className="Project-element pe2 col-lg-4 col-sm-12 align-center"
           data-aos="slide-up"
@@ -51,7 +65,7 @@ const Projects = () => {
           <h2>Weather App</h2>
         </div>
 
-        <div
+        {/* <div
           className="Project-element pe2 col-lg-4 col-sm-12 align-center"
           data-aos="slide-up"
         >
@@ -97,7 +111,7 @@ const Projects = () => {
             </a>
           </div>
           <h2>Youtube clone</h2>
-        </div>
+        </div> */}
       </div>
     </div>
   );

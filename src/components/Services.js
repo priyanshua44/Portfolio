@@ -27,24 +27,21 @@ const Services = () => {
               <i className="fa-solid fa-square-check fa-3x easy-button"></i>
               <h5>Attractive Design</h5>
               <p>
-                I can make attractive websites which will attract users, also
-                the UI is very simplified.
+              I specialize in creating visually appealing websites with a user-friendly interface, designed to attract and engage users effectively.
               </p>
             </div>
             <div className="element col-lg-4 col-sm-12 align-center" data-aos="zoom-in">
               <i className="fa-solid fa-3x fa-mobile-screen-button"></i>
               <h5>Responsive Websites</h5>
               <p>
-                I can make fully responsive websites which can work easily on
-                Phone, Computer, TV.
+              I excel at creating fully responsive websites that function seamlessly across all devices, including phones, computers, and TVs.
               </p>
             </div>
             <div className="element col-lg-4 col-sm-12 align-center" data-aos="zoom-in">
-              <i className="fa-solid fa-heart fa-3x easy-button"></i>
-              <h5>Dedication</h5>
+              <i className="fa-solid fa-server fa-3x easy-button"></i>
+              <h5>Backend</h5>
               <p>
-                My first priorty is completing the work at time, I don't believe
-                in giving excuses.
+              I specialize in backend development, delivering robust, reliable, and highly efficient server-side solutions.
               </p>
             </div>
           </div>
